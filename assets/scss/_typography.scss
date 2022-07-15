@@ -1,0 +1,42 @@
+.container__text {
+
+    h1 {
+        line-height: 1.1;
+        font-family: var(--font-family-title);
+        font-size: 1.8rem;
+        color: var(--very-dark-blue);
+        font-weight: 700;
+    }
+
+    p {
+        font-family: var(--font-family-para);
+        font-size: var(--font-para-size);
+        color: var(--dark-grayish-blue);
+
+        &.product-type {
+            text-transform: uppercase;
+            letter-spacing: 5px;
+        }
+
+        &.description {
+            line-height: 1.6;
+        }
+    }
+
+    .price {
+        &__current {
+            color: var(--dark-cyan);
+            font-family: var(--font-family-title);
+            font-size: 1.8rem;
+        }
+
+        &__without-discount {
+            text-decoration: line-through;
+        }
+    }
+
+    .add-cart {
+        font-family: var(--font-family-para);
+        font-weight: 700;
+    }
+}
