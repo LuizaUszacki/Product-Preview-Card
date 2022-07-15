@@ -1,3 +1,5 @@
+@use 'variables';
+
 body {
     min-height: 100vh;
     background-color: var(--cream);
@@ -72,8 +74,7 @@ body {
 
             &:hover,
             &:focus {
-                background-color: darken(hsl(158, 36%, 37%), 19%)
-                
+                background-color: darken(variables.$dark-cyan, 19%);              
             }
         }
 
