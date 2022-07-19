@@ -6,6 +6,8 @@ It's a preview card of a product (Perfume).
 This project is responsive and have hover and focus effect in the button.
 It was built using HMTL and Scss.
 
+**Website:** https://luizauszacki.github.io/Product-Preview-Card/
+
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/105115163/179268058-ce239ea8-f5aa-409c-a8bd-a0b970c3f95d.png" height="350" alt="Product preview card's Image for Desktop">
   <img src="https://user-images.githubusercontent.com/105115163/179268064-f19b638c-073c-4f0b-a89d-49ff3ba86f14.png" height="350" alt="Product preview card's Image for Mobile">
